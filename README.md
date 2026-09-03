@@ -1,28 +1,42 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+a+passionate+Software+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  </a>
+
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Passionate+Software+Developer;Building+Full-Stack+Systems;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</a>
+
 </div>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Awesome Projects**
-- 🌱 I’m currently learning **New Technologies**
-- 💬 Ask me about **Anything**
-- 📫 How to reach me: **your.email@example.com**
+- 🔭 I'm currently working on **[current project name]**
+- 🌱 I'm currently learning **[technology you're learning]**
+- 💬 Ask me about **[your specialty — e.g. Django, Full-Stack Development]**
+- 📫 Reach me at: **your.email@example.com**
+- ⚡ Fun fact: **[something personal/fun]**
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <!-- You can generate more badges at https://shields.io/ -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Agnel039&show_icons=true&theme=radium&hide_border=true" height="150" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnel039&layout=compact&theme=radium&hide_border=true" height="150" alt="Top Langs" />
+</div>
+
+### 🔥 Streak Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Agnel039&theme=radium&hide_border=true" alt="Streak stats" />
 </div>
 
 ### 🐍 Contribution Graph Snake
@@ -32,4 +46,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Agnel039/Agnel039/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Agnel039/Agnel039/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<!-- Animated footer banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+<!-- Profile visitor counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Agnel039&color=blue&style=flat-square" alt="Profile views" />
 </div>
