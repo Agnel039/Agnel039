@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Terminal-style loading animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=2196F3&center=true&vCenter=true&width=600&lines=Initializing+profile...;Loading+repositories...;Fetching+contributions...;Welcome+to+my+profile!+%F0%9F%9A%80" alt="Loading animation" />
+
 <!-- Animated header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
