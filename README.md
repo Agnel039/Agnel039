@@ -25,7 +25,7 @@ NAME     : Agnel Jofy
 ROLE     : Full-Stack Developer
 STACK    : Python · Django · JavaScript · PostgreSQL
 FOCUS    : Manufacturing & Inventory Systems, Backend Architecture
-LOCATION : [Your City, Country]
+LOCATION : Thissur,India
 STATUS   : github activity heatmap // contribution stream online
 ```
 
