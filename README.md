@@ -88,9 +88,15 @@ STATUS   : github activity heatmap // contribution stream online
 ### `> connect --socials`
 
 <div align="center">
-  <a href="mailto:agneljofy.039@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
-  <a href="www.linkedin.com/in/agnel-jofy"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
-  <a href="https://www.instagram.com/agnel_039/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41" /></a>
+  <a href="mailto:agneljofy.039@example.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+  </a>
+  <a href="https://www.linkedin.com/in/agnel-jofy/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+  </a>
+  <a href="https://www.instagram.com/agnel_039/">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41" />
+  </a>
 </div>
 
 <br/>
